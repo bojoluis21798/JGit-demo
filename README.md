@@ -1,2 +1,2 @@
-# JGit-demo
-for JGit demo
+Hello There
+You have cloned this repo
